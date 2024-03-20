@@ -7,3 +7,7 @@ This is a logo maker that uses node.js to generate logos for your projects. It i
 - the file will be saved as a .svg file
 ## Application Video 
 https://drive.google.com/file/d/1qjJEOtOhC3Ky-qWld3uY3XNcohExvK6-/view?usp=sharing
+## Link to Example file
+[Link to Example SVG File](./examples/logo.svg)
+
+
